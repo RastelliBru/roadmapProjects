@@ -8,4 +8,4 @@ This repository contains some front-end projects from Roadmap.sh
 ![Single-Page CV](/Frontend/single-page-cv/assets/result-cv.PNG)
 
 ## Here is the code:
-- [Code Single-Page CV](https://roadmap.sh/projects/single-page-cvhttps://github.com/akinghill/roadmap.sh-solutions/blob/main/Frontend%20Projects/01-single-page-cv/index.html)
+- [Code Single-Page CV](https://github.com/RastelliBru/roadmapProjects/blob/main/Frontend/single-page-cv/index.html)
