@@ -1,0 +1,106 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+.logo img {
+    border-radius: 10px;
+}
+
+header nav {
+    flex-grow: 0.5;
+}
+  
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+}
+
+header nav ul li a:hover {
+    color: gray;
+}
+
+section.introduction h1 { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+}
+
+section.projects { 
+    padding: 70px;
+    color: black;
+    height: 200px;
+    border-right: 1px solid black;
+}   
+
+.projects h2 { 
+    display: flex;
+    align-items: center;
+    text-align: center;
+} 
+ 
+
+section.experience { 
+    padding: 70px;
+    color: black;
+    height: 200px;
+    border-right: 1px solid black;
+
+} 
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 0px;
+}
+
+a:hover {
+    color: grey;
+}
+ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+footer p {
+    text-align: center;
+    padding: 70px;
+}
+
+div.infos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+section.projects-project { 
+    padding: 80px;
+    color: black;
+    display: block;
+    text-align: center;
+    border-right: 1px solid black;
+}  
+
+section.projects-project ul li {
+    text-align:left;
+    width: 150px;
+    height: 100px;
+}
+
+section.contact-us {
+    display: block;
+}
